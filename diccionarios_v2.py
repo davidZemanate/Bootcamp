@@ -36,6 +36,13 @@ contacts={"David":{"apellido":"Zemanate",
                    "heroe o persona que admiras": "Mamá",
                    "libro que mas me ha impactado":"--",
                    "cenar con alguien":"Javier Santaolalla",
-                   "que logro personal te enorgullese":"aprender python"}}
+                   "que logro personal te enorgullese":"aprender python",},
+            "Luz milena":{"apellido":"daza",
+                          "altura":1.65,
+                          "edad":56,
+                          "parentesco":"mamá",
+                          "color faavorito":"azul"
+                          }
+          }
 
 print(contacts)

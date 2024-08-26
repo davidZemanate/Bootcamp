@@ -7,7 +7,7 @@ multiplicacion=3*3
 print("la multipliacion es:",multiplicacion)
 potencia=2**3
 print("la potencia es:",potencia)
-division_entera=12//4
+division_entera=8/2
 print("la división es:",division_entera)
 division=12//4
 print("la división es:",division)
